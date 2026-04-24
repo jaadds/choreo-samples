@@ -21,4 +21,3 @@ You will receive a response similar to the following:
     "Hello": "World"
 }
 ```
-Hello
